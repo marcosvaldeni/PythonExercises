@@ -1,3 +1,4 @@
+#003
 number1 = int(input('Type a number: '))
 number2 = int(input('Type another number: '))
 r = number1 + number2

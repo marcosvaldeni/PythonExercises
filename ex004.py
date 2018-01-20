@@ -1,3 +1,4 @@
+#004
 n = input('Type something: ')
 print('The primitive type of this value is:', type(n))
 print('Is it only space?', n.isspace())
