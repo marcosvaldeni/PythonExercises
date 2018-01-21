@@ -1,0 +1,7 @@
+length = float(input('Type a length in meters: '))
+print('The measure of {} m stands for:'.format(length))
+print('{}km'.format(length/1000))
+print('{}hm'.format(length/100))
+print('{}dm'.format(length/10))
+print('{}cm'.format(length*100))
+print('{}mm'.format(length*1000))
