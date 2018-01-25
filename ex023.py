@@ -1,4 +1,5 @@
 number = str(input('Type a number between 0 to 9999: '))
+print('Analyzing the number {}'.format(number))
 print('Unit: {}'.format(number[0]))
 print('Ten: {}'.format(number[1]))
 print('Hundred: {}'.format(number[2]))
